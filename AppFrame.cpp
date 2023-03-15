@@ -3,7 +3,7 @@
 
     AppFrame.cpp
     Created: 31 Oct 2021 1:55:21pm
-    Author:  trissy the sissy
+    Author:  Tristan Mercer
 
   ==============================================================================
 */
